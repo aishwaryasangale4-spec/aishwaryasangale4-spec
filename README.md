@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 .
 
-#🚀 Here's what you'll find here:##
+**🚀 Here's what you'll find here:**
 
-#🔧 Skills
+**🔧 Skills**
 
-#🎯 My Goal
+**🎯 My Goal**
 
-##🤝 Let's Connect!
+**🤝 Let's Connect!**
 
 
 
