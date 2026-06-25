@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 **🚀 Here's what you'll find here:**
 
-🌱 Projects I'm building
+🌱 Projects I'm building ..
 📊 Interactive Power BI dashboards
 🧹 Data cleaning & SQL practice
 🐍 Python-based analysis
