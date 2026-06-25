@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 **Skills**
 - Python
 - SQL
@@ -37,9 +38,9 @@ Here are some ideas to get you started:
 
 **🤝 Let's Connect!**
 
--🔗 LinkedIn:(https://www.linkedin.com/in/aishwaryasangale)
+- 🔗 LinkedIn:(https://www.linkedin.com/in/aishwaryasangale)
 - 💻 GitHub:(https://github.com/aishwaryasangale4-spec)
--📧 Email:(aishwaryasangale4@gmail.com)
+- 📧 Email:(aishwaryasangale4@gmail.com)
 
 
 
