@@ -1,5 +1,7 @@
 ## Hi I'm Aishwarya 👋
 
+Detail-oriented Data Analyst with a Bachelor's degree in Information Technology and hands-on experience in **Python**, **SQL**, **Excel**, **Power BI**, and **Tableau**. Passionate about transforming data into actionable insights and supporting data-driven decision-making. Immediate joiner, eager to learn, grow, and contribute to business success.
+
 <!--
 **aishwaryasangale4-spec/aishwaryasangale4-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,11 +20,17 @@ Here are some ideas to get you started:
 
 **🚀 Here's what you'll find here:**
 
-**🔧 Skills**
-
-**🎯 My Goal**
+🌱 Projects I'm building
+📊 Interactive Power BI dashboards
+🧹 Data cleaning & SQL practice
+🐍 Python-based analysis
+📈 My progress in data analytics
 
 **🤝 Let's Connect!**
+
+- [LinkedIn](https://www.linkedin.com/in/aishwaryasangale)
+- [GitHub](https://github.com/aishwaryasangale4-spec)
+- [Email](mailto:aishwaryasangale4@gmail.com)
 
 
 
