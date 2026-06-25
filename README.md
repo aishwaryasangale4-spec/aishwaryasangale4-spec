@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 **🚀 Here's what you'll find here:**
 
-🌱 Projects I'm building ..
-📊 Interactive Power BI dashboards
-🧹 Data cleaning & SQL practice
-🐍 Python-based analysis
-📈 My progress in data analytics
+🌱 Projects I'm building <br>
+📊 Interactive Power BI dashboards <br>
+🧹 Data cleaning & SQL practice<br>
+🐍 Python-based analysis<br>
+📈 My progress in data analytics<br>
 
 **🤝 Let's Connect!**
 
