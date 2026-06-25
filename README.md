@@ -1,5 +1,7 @@
 ## Hi I'm Aishwarya 👋
 
+**Data Analyst | Immediate Joiner**
+
 Detail-oriented Data Analyst with a Bachelor's degree in Information Technology and hands-on experience in **Python**, **SQL**, **Excel**, **Power BI**, and **Tableau**. Passionate about transforming data into actionable insights and supporting data-driven decision-making. Immediate joiner, eager to learn, grow, and contribute to business success.
 
 <!--
@@ -16,7 +18,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-.
+**Skills**
+- Python
+- SQL
+- Excel
+- Power BI
+- Tableau
+- Data Analysis
+- Data Visualization
 
 **🚀 Here's what you'll find here:**
 
@@ -28,9 +37,9 @@ Here are some ideas to get you started:
 
 **🤝 Let's Connect!**
 
-- [LinkedIn](https://www.linkedin.com/in/aishwaryasangale)
-- [GitHub](https://github.com/aishwaryasangale4-spec)
-- [Email](mailto:aishwaryasangale4@gmail.com)
+-🔗 LinkedIn:(https://www.linkedin.com/in/aishwaryasangale)
+- 💻 GitHub:(https://github.com/aishwaryasangale4-spec)
+-📧 Email:(aishwaryasangale4@gmail.com)
 
 
 
